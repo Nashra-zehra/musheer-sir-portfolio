@@ -38,11 +38,11 @@ export const PROF = {
   },
 
   profiles: [
-    { name: 'Google Scholar', url: 'https://scholar.google.com/citations?user=MUSHEER' },
-    { name: 'Scopus', url: '#' },
-    { name: 'ResearchGate', url: '#' },
-    { name: 'DBLP', url: '#' },
-    { name: 'JMI Faculty', url: '#' },
+    { name: 'Google Scholar', url: ' https://scholar.google.com/citations?user=cPbmjWoAAAAJ&hl=en&sortby=pubdate' },
+    { name: 'Scopus', url: 'https://www.scopus.com/authid/detail.uri?authorId=56339090200' },
+    { name: 'ResearchGate', url: ' https://www.researchgate.net/profile/Musheer-Ahmad-3' },
+    { name: 'DBLP', url: ' https://dblp.org/pid/89/8467-2.html' },
+    { name: 'JMI Faculty', url: 'https://jmi.ac.in/ACADEMICS/Departments/Department-Of-Computer-Engineering/People/Faculty-Members/3148/Musheer_Ahmad' },
   ],
 
   researchAreas: [
